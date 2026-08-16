@@ -2,7 +2,7 @@
 name: jinghai-judicial-risk
 description: Batch-screen Chinese companies for judicial risk clues.
 version: 0.1.0
-author: Hermes Agent Contributor
+author: stormchaser
 license: MIT
 platforms: [linux, macos, windows]
 metadata:

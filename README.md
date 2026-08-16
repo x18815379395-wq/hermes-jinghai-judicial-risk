@@ -38,4 +38,4 @@ MIT
 
 ## 作者
 
-Hermes Agent Contributor
+stormchaser
